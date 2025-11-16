@@ -1,4 +1,3 @@
-> 2300080123_MNSSGPrasunamba:
 import os
 import io
 import json
